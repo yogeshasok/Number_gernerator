@@ -2,5 +2,5 @@ projectKey=com.example:NumberGenerator
 serverUrl=http://localhost:9000
 serverVersion=6.7.1.35068
 dashboardUrl=http://localhost:9000/dashboard/index/com.example:NumberGenerator
-ceTaskId=AWEIJoG91nO2aDaaLSS-
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWEIJoG91nO2aDaaLSS-
+ceTaskId=AWEJIGLg1nO2aDaaLSTF
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWEJIGLg1nO2aDaaLSTF
